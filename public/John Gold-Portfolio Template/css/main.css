@@ -19,6 +19,15 @@
 
 /******** GENERAL SETTINGS SECTION START ********/
 
+.goals {
+    color: white;
+}
+
+#prices {
+    text-align: center;
+    margin-left: 600px;
+    
+}
 .title {
     font-weight: 400;
     font-size: 10pt;
